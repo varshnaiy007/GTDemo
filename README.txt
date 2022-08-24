@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HELLO TESTING MIC 1,2,3,4,5,6..
 
+=======
+HELLO MIC TESTING 1,2,3,4,5,6..
+>>>>>>> a1e63ef7003a8e30627715cc03ab7c16609197ce
